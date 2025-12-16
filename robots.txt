@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://app-pe.github.io/empresaseo/sitemap.xml
+Sitemap: https://empresaseo.pages.dev/sitemap.xml
