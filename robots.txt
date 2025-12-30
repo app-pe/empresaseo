@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://empresaseo.pages.dev/sitemap.xml
